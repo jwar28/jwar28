@@ -2,10 +2,10 @@
 
 ## I'm a college student who's surviving in Latam
 
--  I’m currently learning web dev.
+- 🙏 I’m currently learning web dev.
 - 🦾 I enjoy creating new things.
 - 💻 I'd like to learn web dev.
-- 😵 Studiying SWE.
+- 😵 Studiying SWE
 
 ---
 
