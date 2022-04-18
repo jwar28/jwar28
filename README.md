@@ -3,8 +3,8 @@
 ## I'm a college student who's surviving in Latam
 
 - 🙏 I’m currently learning Angular & Node js.
-- 🦾 I enjoy creating new things
-- 💻 I'd like to learn web dev
+- 🦾 Creating new things
+- 💻 Future full-stack dev
 - 😵 Studiying SWE
 
 ---
