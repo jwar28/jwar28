@@ -1,10 +1,10 @@
-# What's up, I'm Javier 🤘
+# Kike here 🤘
 
-## I'm a college student who's surviving in Latam
+## A college student trying to survive in Latam
 
-- 🙏 I’m currently learning Angular & Node js.
-- 🦾 Creating new things
-- 💻 Future full-stack dev
+- 🙏 Learning everything that I find fun
+- 🧠 Creating monsters
+- 💻 Doing it my way
 - 😵 Studiying SWE
 
 ---
