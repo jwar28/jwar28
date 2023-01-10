@@ -2,6 +2,8 @@
 
 ## Software Developer in progress...
 
+Technologist in Analysis and Development of Information Systems.
+
 - Learning everything that I find fun
 - Seeking best practices
 - Open to learn from anyone
