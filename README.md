@@ -1,11 +1,11 @@
-# Kike here 🤘
+# Hi there
 
-## A college student trying to survive in Latam
+## Software Developer in progress...
 
-- 🙏 Learning everything that I find fun
-- 🧠 Creating monsters
-- 💻 Doing it my way
-- 😵 Studiying SWE
+- Learning everything that I find fun
+- Seeking best practices
+- Open to learn from anyone
+- Studiying SWE
 
 ---
 
