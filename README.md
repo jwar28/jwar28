@@ -1,6 +1,6 @@
 ## 💻 Software Developer in progress...
 
-Technologist in Analysis and Development of Information Systems.
+Technologist in Analysis and Development of Information Systems. Frontend Lover
 
 - Learning everything that I find fun
 - Seeking best practices
